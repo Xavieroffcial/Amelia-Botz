@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
+     "namalu" : "SKYXMOON",
+     "nomerlu": "6283862006229",
+     "namabot": "Moon-MD",
+     "nomerbot": "6283862006229",
      "gender" : "Female",
      "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
+     "namaDocument": "Moon-MD",
      "joinGcExtream": true,
 
      "publik": true,
@@ -46,9 +46,9 @@
      
      "setPayment": {
      "Shopee" : "085156137901",
-     "Gopay" : "085156137901",
-     "Dana" : "085156137901",
-     "Ovo" : "085156137901"
+     "Gopay" : "083862006229",
+     "Dana" : "085962734007",
+     "Ovo" : "083862006229"
      },
      
      "setPrefix": {
